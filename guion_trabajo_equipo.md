@@ -7,7 +7,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **_Duración_**:  1 hora aproximadamente.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_creacion_equipos_gesteco_CCAA/2025_2026/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_creacion_equipos_gesteco_CCAA/2025-2026/imagenes/portada.png)
 
 
 ---
@@ -85,7 +85,7 @@ Para "romper el hielo" y para conocer mejor cómo se enfrenta cada miembro del g
 
 #### 3.2.1 Autoconocimiento
 
-Conocer las habilidades propias es importante para trabajar individualmente y también en equipo. Por eso incluimos en esta sesión un pequeño ejercicio en el que tratamos de etiquetarnos con una serie de adjetivos. También pedimos a algunos compañeros (y si queremos a familiares) que nos etiqueten de la misma manera. En [este](https://github.com/aprendiendo-cosas/P_creacion_equipos_gesteco_CCAA/raw/2025_2026/descargables/rasgos_personales.docx) documento está la plantilla con los adjetivos y con unas instrucciones más precisas.
+Conocer las habilidades propias es importante para trabajar individualmente y también en equipo. Por eso incluimos en esta sesión un pequeño ejercicio en el que tratamos de etiquetarnos con una serie de adjetivos. También pedimos a algunos compañeros (y si queremos a familiares) que nos etiqueten de la misma manera. En [este](https://github.com/aprendiendo-cosas/P_creacion_equipos_gesteco_CCAA/raw/2025-2026/descargables/rasgos_personales.docx) documento está la plantilla con los adjetivos y con unas instrucciones más precisas.
 
 El resultado de este trabajo queda en el ámbito individual. 
 
@@ -110,7 +110,7 @@ De nuevo, trataremos de contestar las siguientes preguntas:
 
 Las siguientes imágenes muestran las soluciones "patísticas" aportadas de forma integral por cada grupo.
 
-![patos](https://raw.githubusercontent.com/aprendiendo-cosas/P_creacion_equipos_gesteco_CCAA/2025_2026/imagenes/patos.png)
+![patos](https://raw.githubusercontent.com/aprendiendo-cosas/P_creacion_equipos_gesteco_CCAA/2025-2026/imagenes/patos.png)
 
 Como se puede ver, cada grupo hizo un pato muy diferente al de los demás. Tenemos patos más o menos realistas, otros muy subrealistas. Otros directamente no son patos... El mensaje clave es que, después de haber recibido las mismas instrucciones y el mismo material, cada equipo hace un trabajo completamente diferente al de los demás. 
 
@@ -173,7 +173,7 @@ Teams es una herramienta de Microsoft cuyo objetivo es facilitar el trabajo de p
 
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/P_creacion_equipos_gesteco_CCAA/archive/refs/tags/2025_2026.zip) puedes un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/P_creacion_equipos_gesteco_CCAA/archive/refs/tags/2025-2026.zip) puedes un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
 
