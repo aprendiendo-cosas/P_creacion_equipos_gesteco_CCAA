@@ -7,7 +7,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **_Duración_**:  1 hora aproximadamente.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_creacion_equipos_ecologia_CCAA/2024__2025/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_creacion_equipos_gesteco_CCAA/main/imagenes/portada.png)
 
 
 ---
@@ -15,7 +15,7 @@
 ---
 
 
-## Objetivos de aprendizaje
+## 1 Objetivos de aprendizaje
 
 Esta primera práctica de la asignatura de ecología tiene una única finalidad: construir equipos de estudiantes que se encargarán de realizar un trabajo específico que durará todo el cuatrimestre. Así pues, esta práctica no tiene ningún objetivo docente relacionado directamente con la ecología. Los objetivos de aprendizaje aquí planteados trascienden a la ecología y aplican a todas las disciplinas y asignaturas. De forma más específica, nos planteamos los siguientes objetivos:
 + Reflexionar y tomar conciencia sobre la utilidad e importancia de trabajar en equipo.
@@ -26,7 +26,7 @@ Esta primera práctica de la asignatura de ecología tiene una única finalidad:
 
 
 
-## Introducción
+## 2 Introducción
 
 Uno de los principales objetivos docentes de este curso es mejorar las capacidades de los estudiantes de trabajar en equipo. Hay varias razones que nos han llevado a tomar esa decisión:
 + Es una carencia tradicional en los estudiantes: en los últimos cursos de la asignatura de ecología hemos intentado que los estudiantes hagan trabajos en grupo relacionados con las prácticas de la asignatura o con la salida a Sierra Nevada. Aunque el desempeño de los distintos grupos ha sido variable, en general creemos que es bastante deficiente. Los estudiantes tienden a "trocear" el trabajo. Cada uno se encarga de su "trozo" y luego dedican poco tiempo a pegar las partes. El resultado es una especie de "collage" que no es más que la suma (deficiente) de sus partes. Trabajar en equipo es mucho más que eso. Se trata de hacer una creación grupal que sea mejor que la suma de los elementos que la constituyen. Abundaremos más sobre esto en los siguientes puntos.
@@ -51,7 +51,7 @@ Según lo anteriormente expuesto,  trabajar en equipo es positivo desde varios p
 
 
 
-##  Construcción de los equipos de trabajo
+##  3 Construcción de los equipos de trabajo
 Las ventajas de trabajar en equipo que se han descrito anteriormente ocurren si y solo si el equipo funciona de manera eficaz. En un equipo bien conformado ocurre que el resultado es siempre mejor que la suma de sus partes. Hay "algo" que surge con la interacción de los componentes del equipo que hace que todo funcione mejor. En un equipo los estudiantes interactúan en aspectos diferentes. De forma colaborativa llegan a consensos sobre el contenido del trabajo, sobre la forma de expresar los resultados, etc.  Durante la actividad, cada miembro del equipo es consciente del trabajo que están desarrollando los demás. Esto hace que el resultado final esté bien cohesionado. 
 
 De forma más concreta, podemos decir que un equipo funcional tiene, al menos, las siguientes características:
@@ -62,7 +62,7 @@ De forma más concreta, podemos decir que un equipo funcional tiene, al menos, l
 
 Con todo lo anterior, proponemos el siguiente protocolo que nos permitirá construir los equipos de trabajo  que operarán durante todo el cuatrimestre:
 
-### 1. Creación de equipos heterogéneos o diversos 
+### 3.1. Creación de equipos heterogéneos o diversos 
 
 Para realizar satisfactoriamente el trabajo grupal que os encargaremos en breve, será necesario poner en práctica una serie de competencias. Estas competencias se entrenarán durante la asignatura, pero tendremos que recurrir a la autoevaluación a priori de cada una de ellas para conformar los equipos. 
 
@@ -74,13 +74,20 @@ Para realizar satisfactoriamente el trabajo grupal que os encargaremos en breve,
 Aunque lo ideal sería construir los equipos en función de los criterios anteriores, en este curso no lo haremos así. Probaremos cómo se desenvuelven equipos creados de manera espontánea por los estudiantes. Es decir, los estudiantes se autoagrupan para trabajar en la asignatura. Esto no pasa en en la vida real. Uno no elije a sus compañeros de trabajo.
 
 
-### 2. Primeros pasos: construyendo equipo a partir de individualidades
 
-Los grupos que hemos creado están formados por personas con habilidades diferentes. Se conocen algo entre sí, pero quizás no lo suficiente como para empezar a trabajar de manera eficaz.
+### 3.2. Primeros pasos: construyendo equipo a partir de individualidades
+
+Los grupos que hemos creado están formados por personas con habilidades diferentes. Es importante tomar conciencia de nuestras habilidades y debilidades personales. 
+
+Además, los miembros del equipo se conocen algo entre sí, pero quizás no lo suficiente como para empezar a trabajar de manera eficaz.
 
 Para "romper el hielo" y para conocer mejor cómo se enfrenta cada miembro del grupo a un problema concreto, haremos una dinámica con piezas de Lego. Luego asignaremos a cada miembro del grupo un papel concreto para velar por su integridad funcional. 
 
-#### Construye un pato...
+#### 3.2.1 Autoconocimiento
+
+
+
+#### 3.2.2 Construye un pato...
 
 El profesor repartirá a cada estudiante una bolsita con 6 piezas de Lego. Con esas piezas hay que construir un pato. Sí, un pato, como el Pato Donald o el Pato Lucas. 
 
@@ -100,9 +107,9 @@ De nuevo, trataremos de contestar las siguientes preguntas:
 
 Las siguientes imágenes muestran las soluciones "patísticas" aportadas de forma integral por cada grupo.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_creacion_equipos_ecologia_CCAA/main/imagenes/patos_grupales.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_creacion_equipos_gesteco_CCAA/main/imagenes/patos.png)
 
-Como se puede ver, cada grupo hizo un pato muy diferente al de los demás. Tenemos patos más o menos realistas, otros muy subrealistas. Otros que parecen estar nadando, otros de pie, etc. El mensaje clave es que, después de haber recibido las mismas instrucciones y el mismo material, cada equipo hace un trabajo completamente diferente al de los demás. 
+Como se puede ver, cada grupo hizo un pato muy diferente al de los demás. Tenemos patos más o menos realistas, otros muy subrealistas. Otros directamente no son patos... El mensaje clave es que, después de haber recibido las mismas instrucciones y el mismo material, cada equipo hace un trabajo completamente diferente al de los demás. 
 
 
 
@@ -147,8 +154,12 @@ A lo largo del cuatrimestre rellenaréis [esta](https://forms.office.com/e/f6yvn
 
 Teams es una herramienta de Microsoft cuyo objetivo es facilitar el trabajo de personas que trabajan en equipo. No es la mejor herramienta para esto, pero dado que la Universidad paga la licencia y la pone a nuestra disposición, la usaremos en esta asignatura. Su funcionamiento es bastante intuitivo, pero ahí van algunas ideas generales:
 + Cada equipo está formado por un número determinado de personas. Los equipos pueden ser públicos o privados. En nuestro caso crearemos grupos privados que estarán formados por los estudiantes de cada equipo y por mí, que haré las veces de asesore "externo". Para ser sistemáticos y para hacerme la vida un poco más fácil (tengo acceso a muchos equipos), os pido que cada equipo se nombre de la siguiente forma:
-  + 24_25\_eco\_ccaa\_G[Número del grupo]\_[nombre_ecosistema]. Por ejemplo: 24_25_eco_ccaa_G1_pinares_repoblacion. Es importante que el nombre no tenga ni espacios, ni tildes ni ningún carácter raro.
-
+  + [Nº Grupo]_[nombre_corto]_[nombre_cool], siendo los nombres cortos los siguientes:
+    + Grupo 1¿Cómo podríamos conservar la dehesa manteniendo sus aprovechamientos ganaderos y agrícolas?: **dehesa**
+    + Grupo 2: ¿De qué forma se podría compatibilizar la conservación del bosque mediterráneo con la caza mayor en Sierra Morena?: **caza**
+    + Grupo 3: ¿De qué forma pueden coexistir de manera sostenible la caza y el lince en Sierra Morena?: **lince**
+    + Grupo 4: ¿Cómo podemos minimizar la recurrencia de incendios forestales y su impacto?: **incendios**
+    + Grupo 5: ¿Cómo podemos aumentar el valor socioecológico de los pinares de repoblación?: **valor_pinares**
 + Cada equipo tiene distintas funciones que se pueden ver en la parte de arriba del equipo.:
   + Chat: Pues eso, un chat...
   + Archivos: Aquí podréis guardar todos los archivos que encontréis de interés y también los que vayáis creando. Es importante que creéis un árbol de carpetas razonable en el que vayáis guardando la información. La clave aquí es pensar en vuestro yo del futuro. Un árbol de carpetas es correcto si nuestro yo del futuro no quisiera matarnos al verlo... Los archivos aquí almacenados se sincronizan en nustro ordenador con OneDrive.
@@ -160,11 +171,11 @@ Teams es una herramienta de Microsoft cuyo objetivo es facilitar el trabajo de p
 
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/P_creacion_equipos_ecologia_CCAA/archive/refs/tags/2024__2025.zip) puedes un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/P_creacion_equipos_gesteco_CCAA/archive/refs/tags/2025__2026.zip) puedes un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
 
-Haz click [aquí](https://github.com/aprendiendo-cosas/P_creacion_equipos_ecologia_CCAA/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
+Haz click [aquí](https://github.com/aprendiendo-cosas/P_creacion_equipos_gesteco_CCAA/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
 
 ****
  <p xmlns:cc="http://creativecommons.org/ns#" >El contenido de este repositorio se puede utilizar bajo la siguiente licencia:  <a  href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"  target="_blank" rel="license noopener noreferrer"  style="display:inline-block;">CC BY-NC-SA 4.0<img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"  alt=""></a></p> 
