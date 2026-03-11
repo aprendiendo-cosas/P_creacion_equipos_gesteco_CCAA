@@ -7,7 +7,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **_Duración_**:  1 hora aproximadamente.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_creacion_equipos_gesteco_CCAA/main/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_creacion_equipos_gesteco_CCAA/2025_2026/imagenes/portada.png)
 
 
 ---
@@ -85,6 +85,9 @@ Para "romper el hielo" y para conocer mejor cómo se enfrenta cada miembro del g
 
 #### 3.2.1 Autoconocimiento
 
+Conocer las habilidades propias es importante para trabajar individualmente y también en equipo. Por eso incluimos en esta sesión un pequeño ejercicio en el que tratamos de etiquetarnos con una serie de adjetivos. También pedimos a algunos compañeros (y si queremos a familiares) que nos etiqueten de la misma manera. En [este](https://github.com/aprendiendo-cosas/P_creacion_equipos_gesteco_CCAA/raw/2025_2026/descargables/rasgos_personales.docx) documento está la plantilla con los adjetivos y con unas instrucciones más precisas.
+
+El resultado de este trabajo queda en el ámbito individual. 
 
 
 #### 3.2.2 Construye un pato...
@@ -107,7 +110,7 @@ De nuevo, trataremos de contestar las siguientes preguntas:
 
 Las siguientes imágenes muestran las soluciones "patísticas" aportadas de forma integral por cada grupo.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_creacion_equipos_gesteco_CCAA/main/imagenes/patos.png)
+![patos](https://raw.githubusercontent.com/aprendiendo-cosas/P_creacion_equipos_gesteco_CCAA/2025_2026/imagenes/patos.png)
 
 Como se puede ver, cada grupo hizo un pato muy diferente al de los demás. Tenemos patos más o menos realistas, otros muy subrealistas. Otros directamente no son patos... El mensaje clave es que, después de haber recibido las mismas instrucciones y el mismo material, cada equipo hace un trabajo completamente diferente al de los demás. 
 
@@ -127,8 +130,7 @@ En el proceso de creación del pato, habréis visto como cada miembro del equipo
 Teniendo en cuenta estas definiciones y el conocimiento (aún preliminar) que tenéis del equipo, deberéis de asignar a cada miembro un perfil. Si hay más miembros que perfiles, habrá un proceso de rotación.
 
 
-
-###### Evaluación del desempeño del grupo
+##### Evaluación del desempeño del grupo
 
 A lo largo del cuatrimestre rellenaréis [esta](https://forms.office.com/e/f6yvn0MiKt) encuesta que permite evaluar el desempeño del grupo. Nos ayudará a identificar problemas y a tratar de resolverlos. La siguiente tabla muestra el contenido de la pregunta principal de la encuesta:
 
@@ -150,7 +152,7 @@ A lo largo del cuatrimestre rellenaréis [esta](https://forms.office.com/e/f6yvn
 
 
 
-#### 3. Configurando los equipos en Microsoft Teams
+### 3.3 Configurando los equipos en Microsoft Teams
 
 Teams es una herramienta de Microsoft cuyo objetivo es facilitar el trabajo de personas que trabajan en equipo. No es la mejor herramienta para esto, pero dado que la Universidad paga la licencia y la pone a nuestra disposición, la usaremos en esta asignatura. Su funcionamiento es bastante intuitivo, pero ahí van algunas ideas generales:
 + Cada equipo está formado por un número determinado de personas. Los equipos pueden ser públicos o privados. En nuestro caso crearemos grupos privados que estarán formados por los estudiantes de cada equipo y por mí, que haré las veces de asesore "externo". Para ser sistemáticos y para hacerme la vida un poco más fácil (tengo acceso a muchos equipos), os pido que cada equipo se nombre de la siguiente forma:
@@ -171,7 +173,7 @@ Teams es una herramienta de Microsoft cuyo objetivo es facilitar el trabajo de p
 
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/P_creacion_equipos_gesteco_CCAA/archive/refs/tags/2025__2026.zip) puedes un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/P_creacion_equipos_gesteco_CCAA/archive/refs/tags/2025_2026.zip) puedes un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
 
