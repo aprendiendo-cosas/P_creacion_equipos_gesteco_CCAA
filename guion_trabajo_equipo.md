@@ -10,6 +10,10 @@
 ![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_creacion_equipos_ecologia_CCAA/2024__2025/imagenes/portada.png)
 
 
+---
+[TOC]
+---
+
 
 ## Objetivos de aprendizaje
 
@@ -58,7 +62,7 @@ De forma más concreta, podemos decir que un equipo funcional tiene, al menos, l
 
 Con todo lo anterior, proponemos el siguiente protocolo que nos permitirá construir los equipos de trabajo  que operarán durante todo el cuatrimestre:
 
-#### 1. Creación de equipos heterogéneos o diversos 
+### 1. Creación de equipos heterogéneos o diversos 
 
 Para realizar satisfactoriamente el trabajo grupal que os encargaremos en breve, será necesario poner en práctica una serie de competencias. Estas competencias se entrenarán durante la asignatura, pero tendremos que recurrir a la autoevaluación a priori de cada una de ellas para conformar los equipos. 
 
@@ -70,47 +74,19 @@ Para realizar satisfactoriamente el trabajo grupal que os encargaremos en breve,
 Aunque lo ideal sería construir los equipos en función de los criterios anteriores, en este curso no lo haremos así. Probaremos cómo se desenvuelven equipos creados de manera espontánea por los estudiantes. Es decir, los estudiantes se autoagrupan para trabajar en la asignatura. Esto no pasa en en la vida real. Uno no elije a sus compañeros de trabajo.
 
 
-
-La siguientes gráficas muestra los resultados una vez que todos los estudiantes han completado la encuesta. Se ha preservado el anonimato individual. Solo se muestran resultados generales para dar una idea de cómo de "competente" se considera la clase al inicio del curso con relación a las habilidades descritas anteriormente.
-
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_creacion_equipos_ecologia_CCAA/2024__2025/imagenes/busqueda.png" alt="encuesta" style="zoom:100%;" />
-
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_creacion_equipos_ecologia_CCAA/2024__2025/imagenes/analisis.png" alt="analisis" style="zoom:100%;" />
-
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_creacion_equipos_ecologia_CCAA/2024__2025/imagenes/escritura.png" alt="escritura" style="zoom:100%;" />
-
-
-
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_creacion_equipos_ecologia_CCAA/2024__2025/imagenes/sintesis.png" alt="sintesis" style="zoom:100%;" />
-
-En resumen, os consideráis moderadamente buenos buscando información, muy buenos sintetizando y resumiendo. Sin embargo, no os consideráis buenos analizando datos ni escribiendo en lenguaje científico-técnico.
-
-A partir de estos datos se ha aplicado un algoritmo  que permite agrupar a los estudiantes maximizando la heterogeneidad interna de los grupos y manteniendo a la vez la similitud entre grupo. Es decir, nos permite tener grupos parecidos entre sí en cuanto competencias. Cada grupo tiene estudiantes con competencias variadas. La siguiente tabla muestra la composición de los equipos para este curso.
-
-
-
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_creacion_equipos_ecologia_CCAA/2024__2025/imagenes/grupos.png" alt="sintesis" style="zoom:70%;" />
-
-Además, incluimos la siguiente gráfica "radial" que muestra las puntuaciones promedio de los miembros de cada grupo en las cuatro habilidades utilizadas para hacer los equipos. Podemos ver cómo los grupos son diferentes, pero tienen un promedio de habilidad parecido. Es decir, cada uno contiene miembros que se han autoevaluado como buenos en alguno de los criterios elegidos. En cualquier caso, esto es una evaluación preliminar. Seguro que todos terminamos la asignatura siendo estupendos en todos los criterios :) 
-
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_creacion_equipos_ecologia_CCAA/2024__2025/imagenes/radial.png" alt="radial" style="zoom:100%;" />
-
-
-
-#### 2. Primeros pasos: construyendo equipo a partir de individualidades
+### 2. Primeros pasos: construyendo equipo a partir de individualidades
 
 Los grupos que hemos creado están formados por personas con habilidades diferentes. Se conocen algo entre sí, pero quizás no lo suficiente como para empezar a trabajar de manera eficaz.
 
 Para "romper el hielo" y para conocer mejor cómo se enfrenta cada miembro del grupo a un problema concreto, haremos una dinámica con piezas de Lego. Luego asignaremos a cada miembro del grupo un papel concreto para velar por su integridad funcional. 
 
-##### Construye un pato...
+#### Construye un pato...
 
 El profesor repartirá a cada estudiante una bolsita con 6 piezas de Lego. Con esas piezas hay que construir un pato. Sí, un pato, como el Pato Donald o el Pato Lucas. 
 
 Además de pasar un rato divertido, trataremos de darle sentido a esta dinámica con relación a la dinámica de los equipos. Para ello discutiremos de manera conjunta las siguientes preguntas (se incluirán las respuestas elaboradas durante la sesión):
 
 + ¿Cómo de diferentes son los distintos patos que se han creado en los grupos? ¿a qué se pueden deber las diferencias observadas? ¿y las similitudes?
-
 + ¿Qué quiere decir que sean diferentes (o parecidos)?
 + ¿Alguien observa o intuye alguna metáfora que relacione esta dinámica de Lego con el trabajo que debemos hacer?
 
@@ -124,7 +100,7 @@ De nuevo, trataremos de contestar las siguientes preguntas:
 
 Las siguientes imágenes muestran las soluciones "patísticas" aportadas de forma integral por cada grupo.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_creacion_equipos_ecologia_CCAA/2024__2025/imagenes/patos_grupales.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_creacion_equipos_ecologia_CCAA/main/imagenes/patos_grupales.png)
 
 Como se puede ver, cada grupo hizo un pato muy diferente al de los demás. Tenemos patos más o menos realistas, otros muy subrealistas. Otros que parecen estar nadando, otros de pie, etc. El mensaje clave es que, después de haber recibido las mismas instrucciones y el mismo material, cada equipo hace un trabajo completamente diferente al de los demás. 
 
