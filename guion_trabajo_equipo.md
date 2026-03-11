@@ -2,10 +2,10 @@
 
 
 > + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span> 
-> + **_Versión_**: 2024-2025
-> + **_Asignatura (grado)_**: Ecología (CCAA)
+> + **_Versión_**: 2025-2026
+> + **_Asignatura (grado)_**: Gestión de ecosistemas (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
-> + **_Duración_**:  1 sesión de 1.5 horas.
+> + **_Duración_**:  1 hora aproximadamente.
 
 ![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_creacion_equipos_ecologia_CCAA/2024__2025/imagenes/portada.png)
 
@@ -25,7 +25,7 @@ Esta primera práctica de la asignatura de ecología tiene una única finalidad:
 ## Introducción
 
 Uno de los principales objetivos docentes de este curso es mejorar las capacidades de los estudiantes de trabajar en equipo. Hay varias razones que nos han llevado a tomar esa decisión:
-+ Es una carencia tradicional en los estudiantes: en los últimos 3 cursos hemos intentado que los estudiantes hagan trabajos en grupo relacionados con las prácticas de la asignatura o con la salida a Sierra Nevada. Aunque el desempeño de los distintos grupos ha sido variable, en general creemos que es bastante deficiente. Los estudiantes tienden a "trocear" el trabajo. Cada uno se encarga de su "trozo" y luego dedican poco tiempo a pegar las partes. El resultado es una especie de "collage" que no es más que la suma (deficiente) de sus partes. Trabajar en equipo es mucho más que eso. Se trata de hacer una creación grupal que sea mejor que la suma de los elementos que la constituyen. Abundaremos más sobre esto en los siguientes puntos.
++ Es una carencia tradicional en los estudiantes: en los últimos cursos de la asignatura de ecología hemos intentado que los estudiantes hagan trabajos en grupo relacionados con las prácticas de la asignatura o con la salida a Sierra Nevada. Aunque el desempeño de los distintos grupos ha sido variable, en general creemos que es bastante deficiente. Los estudiantes tienden a "trocear" el trabajo. Cada uno se encarga de su "trozo" y luego dedican poco tiempo a pegar las partes. El resultado es una especie de "collage" que no es más que la suma (deficiente) de sus partes. Trabajar en equipo es mucho más que eso. Se trata de hacer una creación grupal que sea mejor que la suma de los elementos que la constituyen. Abundaremos más sobre esto en los siguientes puntos.
 + Trabajar en equipo promueve el aprendizaje profundo: los humanos somos seres profundamente sociales y empáticos. El lenguaje nos permite compartir ideas, reflexiones y propuestas con nuestros congéneres. Se ha comprobado que este ejercicio de compartir, debatir, convencer, ser convencido, etc., facilita la fijación de conocimientos en nuestra memoria a largo plazo. Es decir, trabajar en equipo fomenta el aprendizaje profundo ([Azizan et al., 2018](https://www.sciencedirect.com/science/article/abs/pii/S1749772816300720?via%3Dihub); [Harker et al. 2007](https://research.usc.edu.au/esploro/outputs/journalArticle/Achieving-Deep-Learning-with-Student-Teamwork/99448980102621#file-0); [Oakley et al. 2004](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://engr.ncsu.edu/wp-content/uploads/drive/1ofGhdOciEwloA2zofffqkr7jG3SeKRq3/2004-Oakley-paper(JSCL).pdf&ved=2ahUKEwippt3fyquIAxUiU6QEHRBPDEAQFnoECBkQAQ&usg=AOvVaw147RN9V490wUaNbJd0vhDk)) de diversas maneras:
 
   + Los equipos que funcionan bien hacen que los estudiantes alcancen notas más altas.
@@ -67,11 +67,9 @@ Para realizar satisfactoriamente el trabajo grupal que os encargaremos en breve,
 + Escritura usando lenguaje científico. Una vez obtenida información y analizada, será necesario escribir un texto que resuma los resultados obtenidos. La capacidad de escribir usando de forma fluída un estilo científico-técnico es también muy valiosa para nuestros equipos de trabajo.
 + Capacidad de síntesis. Por último, es importante aprender a resumir y sintetizar información ambiental relevante que se ajuste a las necesidades que tengamos. Por eso en los equipos de trabajo deberá de haber personas que consideren que tienen esta competencia bien entrenada.
 
-Para crear los equipos usaremos una técnica que consiste en que cada estudiante se autoevaluará con relación a las competencias anteriores. Tendrás que completar [este](https://forms.office.com/Pages/ResponsePage.aspx?id=13GcfPkAbUeNBfUavU7CKvXSfMZUc71HpR4AMSoJrd5UQUJTQktMODhTRjVJS1g2SkRCRjFROUJVWi4u) formulario de la forma más honesta que puedas. Con la información suministrada por cada estudiante generaremos una propuesta de equipos de trabajo. Seguramente no te tocará trabajar con tus amigos, pero sí con compañeros con los que haya cierta compatibilidad de competencias a priori. La siguiente imagen muestra el aspecto de la encuesta anteriormente descrita.
+Aunque lo ideal sería construir los equipos en función de los criterios anteriores, en este curso no lo haremos así. Probaremos cómo se desenvuelven equipos creados de manera espontánea por los estudiantes. Es decir, los estudiantes se autoagrupan para trabajar en la asignatura. Esto no pasa en en la vida real. Uno no elije a sus compañeros de trabajo.
 
 
-
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_creacion_equipos_ecologia_CCAA/2024__2025/imagenes/survey.png" alt="encuesta" style="zoom:50%;" />
 
 La siguientes gráficas muestra los resultados una vez que todos los estudiantes han completado la encuesta. Se ha preservado el anonimato individual. Solo se muestran resultados generales para dar una idea de cómo de "competente" se considera la clase al inicio del curso con relación a las habilidades descritas anteriormente.
 
